@@ -3,10 +3,12 @@
 - 문제를 인지하고 이를 해결하는 경험에서 성취감을 느낍니다. 남들보다 문제를 먼저 인식하고 협업하기 좋은 환경을 구축하기 위해 노력합니다. 이로 인해 다양한 문제해결 경험을 가지고 있습니다.
 - 문서화를 중요시합니다. 개발하는 과정에서의 많은 부분들을 문서로 정리하려고 노력합니다.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arepelia)](https://solved.ac/arepelia/)
+<br/>
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arepelia)](https://solved.ac/arepelia/)
 
 <br/>
-  <p align='center'>
+  <p align='left'>
     <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=Java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring-success?style=flat-square&logo=Spring&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/></a>
